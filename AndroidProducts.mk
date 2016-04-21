@@ -15,5 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_jfltetmo.mk \
     $(LOCAL_DIR)/full_jfltetmo.mk
